@@ -81,11 +81,11 @@ Follow these steps for completing your project.
 ### Tasks
 
 - [x] Build the database and tables using knex migrations. **Seeding is not needed**.
-- [ ] Build the API with the following endpoints:
+- [] Build the API with the following endpoints:
 
-  - [ ] POST for adding projects.
-  - [ ] POST for adding actions.
-  - [ ] GET for retrieving a `project` by its `id` that returns an object with the following structure:
+  - [x] POST for adding projects.
+  - [x] POST for adding actions.
+  - [x] GET for retrieving a `project` by its `id` that returns an object with the following structure:
 
     ```js
     {
@@ -114,7 +114,7 @@ Follow these steps for completing your project.
 
 This section is **optional** and not counted towards MVP. Start working on it after you're done with the main assignment.
 
-Add the remaining CRUD operations for projects and actions.
+ [x] Add the remaining CRUD operations for projects and actions.
 
 Use `knex` to add _data seeding_ scripts for projects and actions.
 
